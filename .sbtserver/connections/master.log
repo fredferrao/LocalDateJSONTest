@@ -1,0 +1,115 @@
+New log file opened at Wed Sep 30 11:22:21 AMT 2015 by 22392@linux-6mgo.site
+Taking next connection to: 58414
+New client attempting to connect on port: 59049-58414
+  Address = /127.0.0.2:58414
+This client on port 59049 has uuid 33b1a5e3-18fe-41a0-aae1-acb3eff719d8 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-33b1a5e3-18fe-41a0-aae1-acb3eff719d8
+Taking next connection to: 58414
+New client attempting to connect on port: 59063-58414
+  Address = /127.0.0.2:58414
+Handshake exception on socket: 59063
+sbt.impl.ipc.HandshakeException: Unable to perform handshake
+	at sbt.impl.ipc.Peer.handshake(IPC.scala:46)
+	at sbt.impl.ipc.MultiClientServer.<init>(IPC.scala:150)
+	at sbt.server.SbtServerSocketHandler$$anon$1.run(SbtServerSocketHandler.scala:43)
+Caused by: java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at sbt.impl.ipc.Peer.receive(IPC.scala:95)
+	at sbt.impl.ipc.Peer.handshake(IPC.scala:49)
+	... 2 more
+Taking next connection to: 58414
+New client attempting to connect on port: 59064-58414
+  Address = /127.0.0.2:58414
+This client on port 59064 has uuid 345cbe2c-9338-4fd0-b5e3-e96a188fcce7 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-345cbe2c-9338-4fd0-b5e3-e96a188fcce7
+Taking next connection to: 58414
+New client attempting to connect on port: 59073-58414
+  Address = /127.0.0.2:58414
+Handshake exception on socket: 59073
+sbt.impl.ipc.HandshakeException: Unable to perform handshake
+	at sbt.impl.ipc.Peer.handshake(IPC.scala:46)
+	at sbt.impl.ipc.MultiClientServer.<init>(IPC.scala:150)
+	at sbt.server.SbtServerSocketHandler$$anon$1.run(SbtServerSocketHandler.scala:43)
+Caused by: java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at sbt.impl.ipc.Peer.receive(IPC.scala:95)
+	at sbt.impl.ipc.Peer.handshake(IPC.scala:49)
+	... 2 more
+Taking next connection to: 58414
+New client attempting to connect on port: 59074-58414
+  Address = /127.0.0.2:58414
+This client on port 59074 has uuid da865f12-f7f8-4e4a-86ae-b6a2414e9099 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-345cbe2c-9338-4fd0-b5e3-e96a188fcce7, activator-da865f12-f7f8-4e4a-86ae-b6a2414e9099
+Taking next connection to: 58414
+New client attempting to connect on port: 59101-58414
+  Address = /127.0.0.2:58414
+Handshake exception on socket: 59101
+sbt.impl.ipc.HandshakeException: Unable to perform handshake
+	at sbt.impl.ipc.Peer.handshake(IPC.scala:46)
+	at sbt.impl.ipc.MultiClientServer.<init>(IPC.scala:150)
+	at sbt.server.SbtServerSocketHandler$$anon$1.run(SbtServerSocketHandler.scala:43)
+Caused by: java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at sbt.impl.ipc.Peer.receive(IPC.scala:95)
+	at sbt.impl.ipc.Peer.handshake(IPC.scala:49)
+	... 2 more
+Taking next connection to: 58414
+New client attempting to connect on port: 59102-58414
+  Address = /127.0.0.2:58414
+This client on port 59102 has uuid 2ee649d7-58fd-4c7f-a8d0-e0441675ec55 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-da865f12-f7f8-4e4a-86ae-b6a2414e9099, activator-2ee649d7-58fd-4c7f-a8d0-e0441675ec55
+Taking next connection to: 58414
+New client attempting to connect on port: 59111-58414
+  Address = /127.0.0.2:58414
+Handshake exception on socket: 59111
+sbt.impl.ipc.HandshakeException: Unable to perform handshake
+	at sbt.impl.ipc.Peer.handshake(IPC.scala:46)
+	at sbt.impl.ipc.MultiClientServer.<init>(IPC.scala:150)
+	at sbt.server.SbtServerSocketHandler$$anon$1.run(SbtServerSocketHandler.scala:43)
+Caused by: java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at sbt.impl.ipc.Peer.receive(IPC.scala:95)
+	at sbt.impl.ipc.Peer.handshake(IPC.scala:49)
+	... 2 more
+Taking next connection to: 58414
+New client attempting to connect on port: 59112-58414
+  Address = /127.0.0.2:58414
+This client on port 59112 has uuid de7ebff9-014c-4cd1-bc79-739cf21e69f5 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-2ee649d7-58fd-4c7f-a8d0-e0441675ec55, activator-de7ebff9-014c-4cd1-bc79-739cf21e69f5
+Taking next connection to: 58414
+New client attempting to connect on port: 59119-58414
+  Address = /127.0.0.2:58414
+Handshake exception on socket: 59119
+sbt.impl.ipc.HandshakeException: Unable to perform handshake
+	at sbt.impl.ipc.Peer.handshake(IPC.scala:46)
+	at sbt.impl.ipc.MultiClientServer.<init>(IPC.scala:150)
+	at sbt.server.SbtServerSocketHandler$$anon$1.run(SbtServerSocketHandler.scala:43)
+Caused by: java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at sbt.impl.ipc.Peer.receive(IPC.scala:95)
+	at sbt.impl.ipc.Peer.handshake(IPC.scala:49)
+	... 2 more
+Taking next connection to: 58414
+New client attempting to connect on port: 59120-58414
+  Address = /127.0.0.2:58414
+This client on port 59120 has uuid 78171dc2-f66b-4cab-90aa-0e3d0053d2a0 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-2ee649d7-58fd-4c7f-a8d0-e0441675ec55, activator-de7ebff9-014c-4cd1-bc79-739cf21e69f5, activator-78171dc2-f66b-4cab-90aa-0e3d0053d2a0
+Taking next connection to: 58414
+New client attempting to connect on port: 59160-58414
+  Address = /127.0.0.2:58414
+Handshake exception on socket: 59160
+sbt.impl.ipc.HandshakeException: Unable to perform handshake
+	at sbt.impl.ipc.Peer.handshake(IPC.scala:46)
+	at sbt.impl.ipc.MultiClientServer.<init>(IPC.scala:150)
+	at sbt.server.SbtServerSocketHandler$$anon$1.run(SbtServerSocketHandler.scala:43)
+Caused by: java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at sbt.impl.ipc.Peer.receive(IPC.scala:95)
+	at sbt.impl.ipc.Peer.handshake(IPC.scala:49)
+	... 2 more
+Taking next connection to: 58414
+New client attempting to connect on port: 59161-58414
+  Address = /127.0.0.2:58414
+This client on port 59161 has uuid cd90f56f-5146-416b-93ef-48ec360244ea configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-2ee649d7-58fd-4c7f-a8d0-e0441675ec55, activator-de7ebff9-014c-4cd1-bc79-739cf21e69f5, activator-78171dc2-f66b-4cab-90aa-0e3d0053d2a0, activator-cd90f56f-5146-416b-93ef-48ec360244ea
+Taking next connection to: 58414

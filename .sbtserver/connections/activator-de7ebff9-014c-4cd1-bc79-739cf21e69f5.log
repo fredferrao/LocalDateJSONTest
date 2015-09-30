@@ -1,0 +1,24 @@
+New log file opened at Wed Sep 30 11:23:19 AMT 2015 by 22392@linux-6mgo.site
+Sending msg to client activator-de7ebff9-014c-4cd1-bc79-739cf21e69f5: DetachedLogEvent(LogMessage(debug,sbt server socket logs are in: /home/ferrao/test/LocalDateJSONTest/.sbtserver/connections/master.log))
+Sending msg to client activator-de7ebff9-014c-4cd1-bc79-739cf21e69f5: DetachedLogEvent(LogMessage(debug,sbt general server logs are in: /home/ferrao/test/LocalDateJSONTest/.sbtserver/master.log))
+Sending msg to client activator-de7ebff9-014c-4cd1-bc79-739cf21e69f5: DetachedLogEvent(LogMessage(debug,sbt client logs are in: /home/ferrao/test/LocalDateJSONTest/.sbtserver/connections/activator-de7ebff9-014c-4cd1-bc79-739cf21e69f5.log))
+Reading next message from client.
+Got request: ListenToEvents()
+Reading next message from client.
+Got request: ListenToBuildChange()
+Reading next message from client.
+Got request: SendSyntheticBuildChanged()
+Reading next message from client.
+Got request: KeyLookupRequest(discoveredMainClasses)
+Reading next message from client.
+Got request: KeyLookupRequest(mainClass)
+Reading next message from client.
+Got request: KillServerRequest()
+Reading next message from client.
+Got request: UnlistenToEvents()
+Reading next message from client.
+Got request: UnlistenToBuildChange()
+Reading next message from client.
+Client activator-de7ebff9-014c-4cd1-bc79-739cf21e69f5 EOF, shutting down.
+Stopping client.
+Client activator-de7ebff9-014c-4cd1-bc79-739cf21e69f5 thread exiting.

@@ -1,0 +1,13 @@
+target/
+.metadata
+nbproject/private/
+build/
+nbbuild/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+/faces-config.NavData
+*.iml
+.idea/
+.settings
+node_modules/
